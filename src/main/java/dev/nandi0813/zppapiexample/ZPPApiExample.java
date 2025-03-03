@@ -39,7 +39,7 @@ public final class ZPPApiExample extends JavaPlugin implements Listener {
             player.sendMessage("Match has been started!");
         });
 
-        match.sendMessage("FASZ", true);
+        match.sendMessage("<red>Welcome!", true);
     }
 
 }
