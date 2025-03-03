@@ -1,0 +1,5 @@
+name: ZPPApiTest
+version: '1.0.0-SNAPSHOT'
+main: dev.nandi0813.zppapitest.ZPPApiTest
+api-version: '1.20'
+depends: [ZonePracticePro]
